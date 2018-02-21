@@ -246,7 +246,7 @@ openPopup:function (slug) {
 @[4]
 @[5]
 @[6]
-@[0-16]
+@[9-15] ( open in popup using  <span class="color1">vuedals-library</span>)
 
 
 +++
