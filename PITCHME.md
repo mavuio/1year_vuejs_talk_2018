@@ -145,75 +145,17 @@ Vue.use(vuelidateErrorExtractor, {
 
 
 ---
-### SVG-icons
 
-use svg-icons as components directly within the vue-bundle
+###  a frontend-heavy vue-site:
 
-+++
-##### <span class="color1">vue-svgicons</span>:
+##### www.share-me.at
 
-pre-compile SVG-icons:
-```json
-package.json:
-...
-    "generate-icons": "vsvg -s ./resources/assets/svg-icons -t ./resources/assets/js/compiled-icons"
-...
-```
+---
+#challenges:
 
-+++ 
-##### <span class="color1">vue-svgicons</span>: import
+- optimizing for  search-engines
+- utilizing space
 
-```javascript
-import '../compiled-icons/topnav/close';
-import '../compiled-icons/sociallinks';
-import '../compiled-icons/blog';
-```
-
-+++ 
-##### <span class="color1">vue-svgicons</span>: markup
-
-```html
-<div class="pics" v-if="picsMode">
-    <a :href="getUrlForPost(p)" v-for="(p,idx) in pics" :key="idx" :class="{isVideo:p.video}">
-       <div class="icon-overlay" v-if="p.video">
-         <svgicon icon="blog/play"></svgicon>
-       </div>
-      <img :src="p.tn">
-    </a>
-</div>
-```
-
-@[4] 
-
-+++ 
-##### <span class="color1">fontawesome5</span> - definition
-
-```javascript
-
-import fontawesome from '@fortawesome/fontawesome';
-
-import faShoppingCart from '@fortawesome/fontawesome-pro-light/faShoppingCart';
-import faChevronLeft from '@fortawesome/fontawesome-pro-light/faChevronLeft';
-fontawesome.library.add(faShoppingCart, faChevronLeft);
-
-import FontAwesomeIcon from '@fortawesome/vue-fontawesome';
-
-Vue.component('font-awesome-icon', FontAwesomeIcon);
-
-```
-
-@[4-6] (select icons to use within the project)
-
-+++
-##### <span class="color1">fontawesome5</span> - markup
-
-```html
- <router-link class="button" :to="{name:'overview'}">
-        <font-awesome-icon :icon="['fal', 'chevron-left']" />
- </router-link>
-```
-
-@[2]
 
 
 ---
@@ -290,6 +232,80 @@ module.exports = conf;
 ![Logo](showcase/imgs/bundle_analyzer.png)
 
 ---
+### SVG-icons
+
+use svg-icons as components directly within the vue-bundle
+
++++
+##### <span class="color1">vue-svgicons</span>:
+
+pre-compile SVG-icons:
+```json
+package.json:
+...
+    "generate-icons": "vsvg -s ./resources/assets/svg-icons -t ./resources/assets/js/compiled-icons"
+...
+```
+
++++ 
+##### <span class="color1">vue-svgicons</span>: import
+
+```javascript
+import '../compiled-icons/topnav/close';
+import '../compiled-icons/sociallinks';
+import '../compiled-icons/blog';
+```
+
++++ 
+##### <span class="color1">vue-svgicons</span>: markup
+
+```html
+<div class="pics" v-if="picsMode">
+    <a :href="getUrlForPost(p)" v-for="(p,idx) in pics" :key="idx" :class="{isVideo:p.video}">
+       <div class="icon-overlay" v-if="p.video">
+         <svgicon icon="blog/play"></svgicon>
+       </div>
+      <img :src="p.tn">
+    </a>
+</div>
+```
+
+@[4] 
+
++++ 
+##### <span class="color1">fontawesome5</span> - definition
+
+```javascript
+
+import fontawesome from '@fortawesome/fontawesome';
+
+import faShoppingCart from '@fortawesome/fontawesome-pro-light/faShoppingCart';
+import faChevronLeft from '@fortawesome/fontawesome-pro-light/faChevronLeft';
+fontawesome.library.add(faShoppingCart, faChevronLeft);
+
+import FontAwesomeIcon from '@fortawesome/vue-fontawesome';
+
+Vue.component('font-awesome-icon', FontAwesomeIcon);
+
+```
+
+@[4-6] (select icons to use within the project)
+
++++
+##### <span class="color1">fontawesome5</span> - markup
+
+```html
+ <router-link class="button" :to="{name:'overview'}">
+        <font-awesome-icon :icon="['fal', 'chevron-left']" />
+ </router-link>
+```
+
+@[2]
+
+
+
+---
+
 ### my journey on component-libraries:
 
 +++

@@ -1,5 +1,11 @@
 
-const R = require('ramda');
+
+
+
+
+
+
+  const R = require('ramda');
   import {augmentApiUrl} from '../utils';
   
   import Vue from 'vue';
