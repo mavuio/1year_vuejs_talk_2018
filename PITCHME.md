@@ -9,6 +9,56 @@
 +++
 ##### Form-Validation #2: vuelidate - validations
 
+```javascript
+ validations: function() {
+    let validations={
+        vorname:{required},
+        nachname:{required},
+        sex:{required},
+        titel:{},
+        email:{required, email},
+        gebdatum:{
+          required,
+          isDate (value) {
+            return isDate(value);
+          },
+          isValidAge (value) {
+            const age=getAgeFromDatum(value);
+            if(age!==null) {
+              return age >= this.ageMin && age <= this.ageMax;
+            } else {
+              return true;
+            }
+          },
+        },
+        telefon:{required},
+        adresse1:{required},
+        plz: { required, plz},
+        ort:{required},
+        land:{required},
+        ognr:{required},
+        _bundesland:{required},
+    };
+
+    if(this.fixedAddress) {
+      validations=R.omit(['_bundesland','ognr','adresse1','plz','ort','land'],validations);
+    }
+
+    if(this.showMainMemberNumber) {
+      validations.hhnr={required,mitgliedsnr};
+    }
+
+    if(this.isMainPerson) {
+      validations.werber={mitgliedsnr};
+    }
+
+    if(this.personKey.match('child')) {
+      validations=R.omit(['telefon'],validations);
+    }
+    return { localPerson: validations };
+
+  },
+```
 
 <div class="smallest">@fa[plus-circle] validation code is within the model</div>
 
