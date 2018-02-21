@@ -87,7 +87,7 @@
 +++ 
 ##### vuelidate - validation state
 
-![Logo](showcase/imgs/vuelidate-state.png)
+![Logo](showcase/imgs/vuelidate-state2.png)
 
 +++ 
 
