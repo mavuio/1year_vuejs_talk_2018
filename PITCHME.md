@@ -151,7 +151,7 @@ Vue.use(vuelidateErrorExtractor, {
 ##### www.share-me.at
 
 ---
-#challenges:
+### challenges:
 
 - optimizing for  search-engines
 - utilizing screen-space
