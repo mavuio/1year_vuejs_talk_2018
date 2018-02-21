@@ -7,7 +7,7 @@ vee-validate
 
 
 
------------------------------------
+---
 
 ### 20 year vue.js
 #### lessons learned
