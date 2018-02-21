@@ -30,3 +30,5 @@
   font-size: 0.50em;
   width:100%;
 }
+
+.reveal .slides { width: 1280px; } or .reveal .slides section>* { width: 1280px; }
