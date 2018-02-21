@@ -16,6 +16,8 @@ Manfred Wuits<br>
 ---
 ### Form-Validation: 
 
+
+<div class="right smaller">[showcase:](http://engine.naturfreunde.at.localhost/mitglied-werden#/ "localhost")</div>
 +++?code=showcase/Fotos.vue&lang=html&title=Form-Validation #1: <span class="color1">vee-validate</span> 
 
 <div class="smaller">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
