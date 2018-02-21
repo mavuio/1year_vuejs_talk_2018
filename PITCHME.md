@@ -178,7 +178,8 @@ import '../compiled-icons/blog';
     </a>
 </div>
 ```
-@[4] (embed components) 
+
+@[4] ( embed ) 
 
 +++ 
 ##### <span class="color1">fontawesome5</span> 
