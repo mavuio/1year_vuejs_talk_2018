@@ -1,10 +1,12 @@
-### 1 year vue.js 
-### - lessons learned
+### 20 year vue.js
+#### lessons learned
 <div>&nbsp;</div>
-##### Manfred <span class="color1">Wuits</span>
-##### manfred@werkzeugh.at
+<div class=""></div>
 
-
+<div class="left small">
+Manfred <span class="color1">Wuits</span><br>
+manfred@werkzeugh.at
+</div>
 
 ---
 
