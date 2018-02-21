@@ -25,3 +25,8 @@
     font-size:0.8em !important;
 }
 
+.reveal pre {
+
+  font-size: 0.50em;
+  width:100%;
+}
