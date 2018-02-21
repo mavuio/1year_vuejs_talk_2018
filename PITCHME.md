@@ -223,7 +223,7 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 
 +++ 
-##### example code: popup call
+##### example code: popup call using <span class="color1">vuedals</span>
 
 ```javascript
 openPopup:function (slug) {
