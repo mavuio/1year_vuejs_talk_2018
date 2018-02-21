@@ -171,7 +171,7 @@ import '../compiled-icons/blog';
 @[2] ( use ) 
 
 +++ 
-##### <span class="color1">vue-svgicons</span>: usage
+##### <span class="color1">vue-svgicons</span>: usage 2
 
 ```javascript
 <div class="pics" v-if="picsMode">
