@@ -298,7 +298,7 @@ module.exports = conf;
 - github.com/wxsms/*uiv*  |
 
 +++
-##### Bulma - base Components:
+##### Bulma - based Components:
 
 https://buefy.github.io/
 
