@@ -1,4 +1,4 @@
-### one year in vue.js
+### one year into vue.js
 #### lessons learned
 <div>&nbsp;</div>
 
