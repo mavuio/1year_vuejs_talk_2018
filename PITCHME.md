@@ -320,6 +320,11 @@ module.exports = conf;
 
 ---
 
+one more showcase:
+http://engine.straightwork.at.localhost/photoshaper#/
+
+---
+
 
 # THANKS !
 
