@@ -7,8 +7,12 @@
 <div class="smaller">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
 +++
-##### Form-Validation #2: vuelidate
+##### Form-Validation #2: vuelidate - validations
 
+
+<div class="smallest">@fa[plus-circle] validation code is within the model</div>
+
++++ Form-Validation #2: vuelidate - markup
 ```html
 <div class="row">
   <form-group class="span-6 alpha" label="Geburtsdatum" 
@@ -27,7 +31,6 @@
 </div>
 
 ```
-<div class="smallest">@fa[plus-circle] validation code is within the model</div>
 
 
 ---
