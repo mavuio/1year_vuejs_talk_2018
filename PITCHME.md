@@ -220,6 +220,14 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 +++
 ##### vue lazy-loading w/o router
 
+setup in webpack:
+
+```javascript
+output:{
+    chunkFilename:'js/lazy_[name].js?[chunkhash]',
+  }
+```
+
 
 
 +++ 
@@ -247,7 +255,6 @@ openPopup:function (slug) {
 @[5]
 @[6]
 @[9-15] ( open in popup, here using the <span class="color1">vuedals-library</span>)
-
 
 +++
 ##### webpack bundle size-previews 
