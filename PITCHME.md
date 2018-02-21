@@ -253,7 +253,7 @@ openPopup:function (slug) {
   });
 }
 ```
-@[4] (Note: if you are using Babel, you will need to add the syntax-dynamic-import plugin so that Babel can properly parse the syntax.)
+@[4] ( Note: if you are using Babel, you will need to add the <span class="color1">syntax-dynamic-import</span> plugin so that Babel can properly parse the syntax.)
 @[5]
 @[6]
 @[9-15] ( open in popup, here using the <span class="color1">vuedals-library</span>)
