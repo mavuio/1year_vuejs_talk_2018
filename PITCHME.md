@@ -15,7 +15,7 @@ localstate / vuex-persistedstate
 
 +++?code=showcase/nf_engine/resources/assets/js/components/PersonForm.vue&lang=php&title=Using local-state for forms[PersonForm.vue]
 
-@[7-9] (create slot in local components-state)
+@[7-9] (create slot in local components-state 7)
 @[15] (load data from vuex-store on component-creation)
 @[22] (use getters for that)
 @[25] (be sure to use a cloned version, btw: ramda is a friend)
