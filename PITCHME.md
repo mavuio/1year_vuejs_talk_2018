@@ -213,7 +213,7 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
         </router-link>
 ```
 
-[2]
+@[2]
 
 
 
