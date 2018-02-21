@@ -238,7 +238,7 @@ https://buefy.github.io/\
 
 ###  a frontend-heavy vue-site:
 
-##### @fa[external-link][www.share-me.at](www.share-me.at)
+##### [@fa[external-link] www.share-me.at](www.share-me.at)
 
 +++
 ### challenges:
