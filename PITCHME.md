@@ -19,7 +19,7 @@ localstate / vuex-persistedstate
 @[98-100] (create slot in local components-state)
 @[426] (load data from vuex-store on component-creation)
 @[220] (use getters for that)
-@[258] (be sure to use a cloned version, btw: ramda is a friend)
+@[249] (be sure to use a cloned version, btw: ramda is a friend)
 
 
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate [store/index.js]
