@@ -158,6 +158,7 @@ package.json:
     "generate-icons": "vsvg -s ./resources/assets/svg-icons -t ./resources/assets/js/compiled-icons"
 ...
 ```
+
 +++ 
 ##### <span class="color1">vue-svgicons</span>: usage
 
@@ -177,7 +178,7 @@ import '../compiled-icons/blog';
     </a>
 </div>
 ```
-@[3] 
+@[4] (embed components) 
 
 +++ 
 ##### <span class="color1">fontawesome5</span> 
