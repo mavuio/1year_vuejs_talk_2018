@@ -1,5 +1,5 @@
 ### one year into vue.js
-#### lessons learned
+#### - lessons learned
 <div>&nbsp;</div>
 
 <div class="left small">
