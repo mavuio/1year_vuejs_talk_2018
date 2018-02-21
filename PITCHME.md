@@ -93,11 +93,12 @@
 
 ##### vuelidate-error-extractor - markup Helper
 
+```javascript
+
 import vuelidateErrorExtractor from 'vuelidate-error-extractor';
 
 import customFormGroup from './FormGroup.vue';
 
-```javascript
 Vue.use(vuelidate);
 Vue.use(vuelidateErrorExtractor, {
   template: customFormGroup,
