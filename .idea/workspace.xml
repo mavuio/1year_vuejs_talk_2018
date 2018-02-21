@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e5a1449-9df4-4d61-828a-c44a6851494f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PITCHME.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PITCHME_kitchensink.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maintainance.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1year_vuejs_talk_2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1year_vuejs_talk_2018.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PITCHME.md" beforeDir="false" afterPath="$PROJECT_DIR$/PITCHME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PITCHME.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PITCHME.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/PITCHME.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/PITCHME.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maintainance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/import.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,23 +30,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PITCHME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <first_editor relative-caret-position="81">
+                <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PITCHME.yaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PITCHME.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PITCHME.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="48">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PITCHME.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/PITCHME.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -58,18 +65,18 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret lean-forward="true" selection-end-line="3" />
+                <caret selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maintainance.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maintainance.txt">
+      <file leaf-file-name="import.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/import.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="77" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+            <state relative-caret-position="96">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -87,8 +94,9 @@
         <option value="$PROJECT_DIR$/PITCHME/assets/md/PITCHME.md" />
         <option value="$PROJECT_DIR$/PITCHME_kitchensink.md" />
         <option value="$PROJECT_DIR$/maintainance.txt" />
-        <option value="$PROJECT_DIR$/PITCHME.md" />
         <option value="$PROJECT_DIR$/PITCHME.yaml" />
+        <option value="$PROJECT_DIR$/assets/css/PITCHME.css" />
+        <option value="$PROJECT_DIR$/PITCHME.md" />
       </list>
     </option>
   </component>
@@ -159,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519196572767</updated>
-      <workItem from="1519196574403" duration="5730000" />
+      <workItem from="1519196574403" duration="6016000" />
     </task>
     <task id="LOCAL-00001" summary="2018_02_21_082002">
       <created>1519197606056</created>
@@ -172,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5730000" />
+    <option name="totallyTimeSpent" value="6016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
@@ -261,37 +269,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maintainance.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="77" lean-forward="true" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PITCHME_kitchensink.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret lean-forward="true" selection-end-line="3" />
+            <caret selection-end-line="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/PITCHME.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PITCHME.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PITCHME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PITCHME.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

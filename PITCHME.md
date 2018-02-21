@@ -1,7 +1,7 @@
 ### 1 year vue.js 
 ### - lessons learned
 <div>&nbsp;</div>
-##### Manfred Wuits
+##### Manfred <span class="color1">Wuits</span>
 ##### manfred@werkzeugh.at
 
 
