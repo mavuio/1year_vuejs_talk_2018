@@ -6,7 +6,10 @@
 
 <div class="small">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
-+++?code=showcase//showcase/PersonFormVuelidate.vue&lang=javascript&title=Form-Validation #2:vuelidate 
++++
+
++++?code=showcase/Fotos.vue&lang=html&title=vuelidate
+
 <div class="small">@fa[plus-circle] validation code is within the model</div>
 
 
