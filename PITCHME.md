@@ -19,7 +19,8 @@
 ...
  <div class="row" v-if='usePlzChooser'>
     <form-group :validator="$v.localPerson.plz" label="PLZ/Ort">
-      <v-select :debounce="250" v-model='plzort' :on-search="getPlzorte" :options='plzorte' placeholder="Suche PLZ/Ort" @change="$v.localPerson.plz.$touch()" />
+      <v-select :debounce="250" v-model='plzort' :on-search="getPlzorte" 
+      :options='plzorte' placeholder="Suche PLZ/Ort" @change="$v.localPerson.plz.$touch()" />
         <div>&nbsp;</div>
     </form-group>
  </div>
