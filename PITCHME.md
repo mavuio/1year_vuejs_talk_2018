@@ -22,9 +22,9 @@ localstate / vuex-persistedstate4
 
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=Source: Vuex Store Setup
 
-@[6] Step 1: import
-@[19] Step 2: use
-@[19] there is no step3
+@[6] (Step 1: import)
+@[19](Step 2: select parts of state to preserve)
+@[12](optional: define cache-key)
 
 
 
