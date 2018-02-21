@@ -9,6 +9,10 @@ Manfred Wuits<br>
 </div>
 
 ---
+
+
+
+---
 ### Form-Validation: 
 
 +++?code=showcase/Fotos.vue&lang=html&title=Form-Validation #1: <span class="color1">vee-validate</span> 
