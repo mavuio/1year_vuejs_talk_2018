@@ -7,15 +7,26 @@
 Manfred <span class="color1">Wuits</span><br>
 manfred@werkzeugh.at
 </div>
-
 ---
 
-The End :)
+
 
 
 ---
-vuex: 
-localstate / vuex-persistedstate
+vuex:
+localstate / vuex-persistedstate4
++++
+### vuex-persistedstate
+
+<p><span class="menu-title slide-title">Source: JavaScript Block</span></p>
+
++++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=Source: Vuex Store Setup
+
+
+
+
+
+
 ---
 form validation: 
 vee-validate vs vuelidate 
