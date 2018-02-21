@@ -1,6 +1,3 @@
-// const {create, env} = require('sanctuary');
-// const checkTypes = process.env.NODE_ENV !== 'production';
-// const S = create({checkTypes, env});
 const R = require('ramda');
 import {augmentApiUrl} from '../utils';
 
@@ -14,10 +11,7 @@ import axios from 'axios';
 
 import vSelect from 'vue-select';
 
-// some JS file
 import store from '../store';
-// import {checkIfMitgliedsNrIsValid} from '../store/actions';
-
 
 
 const plz = withParams({type: 'plz'}, function(value){ 
@@ -45,9 +39,6 @@ const mitgliedsnr = withParams({type: 'mitgliedsnr'}, function(mglnr){
         return ret;
 
 });
-// example: https://github.com/monterail/vuelidate/issues/137
-
-
 
 
 import customFormGroup from './FormGroup.vue';
