@@ -1,3 +1,14 @@
+
+---
+### form validation: 
+
+vee-validate 
++++?code=showcase/Fotos.vue&lang=html&title=vee-validate [Fotos.vue]
+
+
+
+-----------------------------------
+
 ### 20 year vue.js
 #### lessons learned
 <div>&nbsp;</div>
@@ -32,10 +43,6 @@ localstate / vuex-persistedstate
 
 
 
----
-### form validation: 
-
-vee-validate 
 ---
 
 
