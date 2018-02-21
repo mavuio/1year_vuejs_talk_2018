@@ -221,6 +221,30 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 ##### vue lazy-loading w/o router
 
 
+
++++ 
+##### example code: popup call
+
+```javascript
+openPopup:function (slug) {
+
+  const AsyncComp = () => ({
+    component: import('./Blog'),
+    loading: require('./Loading.vue'),
+    error: require('./Error.vue'),
+    delay: 200,
+    timeout: 3000
+  });
+
+  this.$vuedals.open({
+    title: 'Über uns',
+    component: AsyncComp,
+    escapable:true,
+  });
+}
+```
+
+
 +++
 ##### webpack bundle size-previews 
 ---
