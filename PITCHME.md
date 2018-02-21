@@ -303,7 +303,6 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 @[2]
 
 
-
 ---
 
 ### my journey on component-libraries:
