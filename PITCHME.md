@@ -26,7 +26,7 @@
  </div>
 
 ```
-<div class="small">@fa[plus-circle] validation code is within the model</div>
+<div class="smaller">@fa[plus-circle] validation code is within the model</div>
 
 
 ---
