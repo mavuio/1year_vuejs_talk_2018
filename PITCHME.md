@@ -1,13 +1,13 @@
 
 ---
-### form validation: 
+##### form validation: 
 
 +++?code=showcase/Fotos.vue&lang=html&title=Form-Validation #1: vee-validate 
 
 <div class="smaller">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
 +++
-### Form-Validation #2: vuelidate
+##### Form-Validation #2: vuelidate
 
 ```html
 <div class="row">
