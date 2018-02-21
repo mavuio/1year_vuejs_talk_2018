@@ -11,7 +11,7 @@ Manfred Wuits<br>
 ---
 ### Form-Validation: 
 
-+++?code=showcase/Fotos.vue&lang=html&title=Form-Validation #1: vee-validate 
++++?code=showcase/Fotos.vue&lang=html&title=Form-Validation #1: <span class="color1">vee-validate</span> 
 
 <div class="smaller">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
