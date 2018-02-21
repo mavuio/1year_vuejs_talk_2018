@@ -168,8 +168,6 @@ import '../compiled-icons/sociallinks';
 import '../compiled-icons/blog';
 ```
 
-@[2] ( use ) 
-
 +++ 
 ##### <span class="color1">vue-svgicons</span>: usage 2
 
