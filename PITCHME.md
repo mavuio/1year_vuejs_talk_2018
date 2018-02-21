@@ -144,7 +144,9 @@ Vue.use(vuelidateErrorExtractor, {
 
 
 ---
-### SVG-icons:
+### SVG-icons
+
+use svg-icons as components directly within the vue-bundle
 
 +++
 ##### <span class="color1">vue-svgicons</span> 
