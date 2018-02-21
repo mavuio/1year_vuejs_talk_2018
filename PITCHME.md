@@ -144,13 +144,12 @@ Vue.use(vuelidateErrorExtractor, {
 
 
 ---
+### SVG-icons:
 
-
-
-
-
-icons: 
-vue-svgicons  vs fontawesome5i
++++
+##### vue-svgicons 
++++ 
+##### fontawesome5 
 ---
 bundle sizes: 
 vue lazy-loading w/o router & webpack bundle size-previews 
