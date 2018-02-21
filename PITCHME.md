@@ -72,12 +72,12 @@ Manfred Wuits<br>
 <div class="smallest">@fa[plus-circle] validation code is within the model</div>
 
 +++ 
-##### vuelidate - validation state
+##### <span class="color1">vuelidate</span> - validation state
 
 ![Logo](showcase/imgs/vuelidate-state2.png)
 +++ 
 
-##### Form-Validation #2: vuelidate - markup
+##### Form-Validation #2: <span class="color1">vuelidate</span> - markup
 
 ```html
 <div class="row">
@@ -100,7 +100,7 @@ Manfred Wuits<br>
 
 +++ 
 
-##### vuelidate-error-extractor - markup Helper
+##### <span class="color1">vuelidate-error-extractor</span> - markup Helper
 
 ```javascript
 
@@ -147,15 +147,15 @@ Vue.use(vuelidateErrorExtractor, {
 ### SVG-icons:
 
 +++
-##### vue-svgicons 
+##### <span class="color1">vue-svgicons</span> 
 +++ 
-##### fontawesome5 
+##### <span class="color1">fontawesome5</span> 
 ---
 bundle sizes: 
 vue lazy-loading w/o router & webpack bundle size-previews 
 ---
 components: 
-vue-strap  vs  buefy-components 
+<span class="color1">vue-strap</span>  vs  <span class="color1">buefy-components</span>
 ---
 content: 
 server-side (laravel)  vs  headless-cms (storyblok)
