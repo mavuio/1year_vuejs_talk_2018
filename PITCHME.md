@@ -15,7 +15,7 @@ form validation: 
 vee-validate vs vuelidate 
 ---
 icons: 
-vue-svgicons  vs fontawesome5
+vue-svgicons  vs fontawesome5i
 ---
 bundle sizes: 
 vue lazy-loading w/o router & webpack bundle size-previews 
