@@ -294,7 +294,8 @@ module.exports = conf;
 +++
 #### "bootstrap" - based Components:
 
-- github.com/yuche/*vue-strap* 
+- github.com/yuche/*vue-strap*  (dead)
+- https://bootstrap-vue.js.org/ (alpha)|
 - github.com/wxsms/*uiv*  |
 
 +++
