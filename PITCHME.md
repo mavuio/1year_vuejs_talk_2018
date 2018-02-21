@@ -208,9 +208,8 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 ```html
  <router-link class="button" :to="{name:'overview'}">
-            <span class="icon is-small"><font-awesome-icon :icon="['fal', 'chevron-left']" /></span>
-            <span>zurück</span>
-        </router-link>
+        <font-awesome-icon :icon="['fal', 'chevron-left']" />
+ </router-link>
 ```
 
 @[2]
