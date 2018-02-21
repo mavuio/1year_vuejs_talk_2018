@@ -278,7 +278,7 @@ module.exports = conf;
 @[4]
 +++
 
-##### demo-time
+##### @fa[rocket] demo-time
 
 
 +++
