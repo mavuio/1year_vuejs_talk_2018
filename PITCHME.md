@@ -2,10 +2,14 @@
 ---
 ### form validation: 
 
-vee-validate 
 +++?code=showcase/Fotos.vue&lang=html&title=vee-validate [Fotos.vue]
 
 <div class="small">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
+
++++?code=showcase/Fotos.vue&lang=html&title=vuelidate [PersonFormVuelidate.vue]
+
+<div class="small">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
+
 
 ---
 
