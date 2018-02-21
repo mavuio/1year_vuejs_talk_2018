@@ -295,7 +295,7 @@ module.exports = conf;
 #### "bootstrap" - based Components:
 
 - github.com/yuche/<span class="color1">vue-strap</span> |
-- github.com/wxsms/uiv |
+- github.com/wxsms/<span class="color1">uiv</span> |
 
 +++
 ##### Bulma - base Components:
