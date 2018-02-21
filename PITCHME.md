@@ -1,3 +1,12 @@
+### 1 year vue.js
+#### lessons learned
+<div>&nbsp;</div>
+<div class=""></div>
+
+<div class="left small">
+Manfred <span class="color1">Wuits</span><br>
+manfred@werkzeugh.at
+</div>
 
 ---
 ##### form validation: 
@@ -113,17 +122,6 @@ Vue.use(vuelidateErrorExtractor, {
 });
 ```
 
----
-
-### 20 year vue.js
-#### lessons learned
-<div>&nbsp;</div>
-<div class=""></div>
-
-<div class="left small">
-Manfred <span class="color1">Wuits</span><br>
-manfred@werkzeugh.at
-</div>
 
 ---
 
