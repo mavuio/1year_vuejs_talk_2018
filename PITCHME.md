@@ -11,7 +11,8 @@
 
 ```html
 <div class="row">
-  <form-group class="span-6 alpha" label="Geburtsdatum" :validator="$v.localPerson.gebdatum">
+  <form-group class="span-6 alpha" label="Geburtsdatum" 
+  :validator="$v.localPerson.gebdatum">
     <input type="text" class="form-control" v-model.trim="localPerson.gebdatum" 
     name="gebdatum" placeholder="TT.MM.JJJJ" @input="$v.localPerson.gebdatum.$touch()">
   </form-group>
