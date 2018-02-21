@@ -1,7 +1,6 @@
 ### 1 year vue.js
 #### lessons learned
 <div>&nbsp;</div>
-<div class=""></div>
 
 <div class="left small">
 Manfred Wuits<br>
@@ -10,7 +9,7 @@ Manfred Wuits<br>
 
 ---
 
-4 projects:
+
 
 
 
