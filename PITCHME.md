@@ -9,6 +9,67 @@ manfred@werkzeugh.at
 </div>
 ---
 
+```html
+<template>
+  <div class="person-form">
+
+
+      <div class="row form-header">
+        <div class="span-12">
+          <div class="form-headline"><i :title="localPerson.kategorie" class='fa fa-lg' :class="isMainPerson?'fa-user-circle':'fa-user-circle-o'"></i>&nbsp;{{personHeadline}}</div>
+        </div>
+      </div>
+
+      <transition name="slide" mode="out-in">
+
+      </transition>
+      </div>
+      </template>
+
+<script>
+
+// const {create, env} = require('sanctuary');
+// const checkTypes = process.env.NODE_ENV !== 'production';
+// const S = create({checkTypes, env});
+const R = require('ramda');
+import {augmentApiUrl} from '../utils';
+
+import Vue from 'vue';
+import vuelidate from 'vuelidate';
+import { required, email } from 'vuelidate/lib/validators';
+import { withParams } from 'vuelidate/lib';
+import vuelidateErrorExtractor from 'vuelidate-error-extractor';
+import moment from 'moment';
+import axios from 'axios';
+
+import vSelect from 'vue-select';
+
+// some JS file
+// Include http module.
+var http = require("http");
+
+// Create the server. Function passed as parameter
+// is called on every request made.
+http.createServer(function (request, response) {
+  // Attach listener on end event.  This event is
+  // called when client sent, awaiting response.
+  request.on("end", function () {
+    // Write headers to the response.
+    // HTTP 200 status, Content-Type text/plain.
+    response.writeHead(200, {
+      'Content-Type': 'text/plain'
+    });
+    // Send data and end response.
+    response.end('Hello HTTP!');
+  });
+
+// Listen on the 8080 port.
+}).listen(8080);
+</script>
+
+```
+
+
 
 
 
