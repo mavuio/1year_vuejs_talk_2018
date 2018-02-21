@@ -218,8 +218,8 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 ---
 ### optimizing bundle sizes:
 +++
-
 ##### vue lazy-loading w/o router
+
 
 +++
 ##### webpack bundle size-previews 
