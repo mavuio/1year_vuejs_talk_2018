@@ -291,11 +291,15 @@ module.exports = conf;
 ---
 ### component-libraries:
 
-#### Bootstrap:
++++
+#### "bootstrap" - based Components:
 
 - <span class="color1">vue-strap</span>  |
 - <span class="color1">uiv</span>  
----
++++
+##### Bulma - base Components:
+
+
 content: 
 server-side (laravel)  vs  headless-cms (storyblok)
 
