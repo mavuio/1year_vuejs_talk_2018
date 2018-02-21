@@ -185,7 +185,24 @@ import '../compiled-icons/blog';
 @[4] 
 
 +++ 
-##### <span class="color1">fontawesome5</span> 
+##### <span class="color1">fontawesome5</span>
+
+'''javascript
+
+import fontawesome from '@fortawesome/fontawesome';
+
+import faShoppingCart from '@fortawesome/fontawesome-pro-light/faShoppingCart';
+import faChevronLeft from '@fortawesome/fontawesome-pro-light/faChevronLeft';
+fontawesome.library.add(faShoppingCart, faChevronLeft);
+
+import FontAwesomeIcon from '@fortawesome/vue-fontawesome';
+
+Vue.component('font-awesome-icon', FontAwesomeIcon);
+'''
+
+@[4-6] (select icons to use within the project)
+
+
 ---
 bundle sizes: 
 vue lazy-loading w/o router & webpack bundle size-previews 
