@@ -158,7 +158,8 @@ package.json:
     "generate-icons": "vsvg -s ./resources/assets/svg-icons -t ./resources/assets/js/compiled-icons"
 ...
 ```
-+++ <span class="color1">vue-svgicons</span>: usage
++++ 
+##### <span class="color1">vue-svgicons</span>: usage
 
 ```javascript
 import '../compiled-icons/topnav/close';
