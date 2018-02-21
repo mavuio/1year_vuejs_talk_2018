@@ -158,6 +158,25 @@ package.json:
     "generate-icons": "vsvg -s ./resources/assets/svg-icons -t ./resources/assets/js/compiled-icons"
 ...
 ```
++++ <span class="color1">vue-svgicons</span>: usage
+
+```javascript
+import '../compiled-icons/topnav/close';
+import '../compiled-icons/sociallinks';
+import '../compiled-icons/blog';
+```
+
+```html
+<div class="pics" v-if="picsMode">
+    <a :href="getUrlForPost(p)" v-for="(p,idx) in pics" :key="idx" :class="{isVideo:p.video}">
+       <div class="icon-overlay" v-if="p.video">
+         <svgicon icon="blog/play"></svgicon>
+       </div>
+      <img :src="p.tn">
+    </a>
+</div>
+```
+@[3] 
 
 +++ 
 ##### <span class="color1">fontawesome5</span> 
