@@ -228,8 +228,6 @@ output:{
   }
 ```
 
-
-
 +++ 
 ##### lazy calling:
 
