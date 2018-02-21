@@ -5,7 +5,7 @@
 vee-validate 
 +++?code=showcase/Fotos.vue&lang=html&title=vee-validate [Fotos.vue]
 
-<div class="small">validations are inter-mingled with presentational code.</div>
+<div class="small">@fa[minus] validations are inter-mingled with presentational code.</div>
 
 ---
 
