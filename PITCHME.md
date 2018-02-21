@@ -239,7 +239,7 @@ utilizing  dynamic import syntax of webpack2:
 openPopup:function (slug) {
 
   const AsyncComp = () => ({
-    component: import('./Blog'),
+    component: import('./Blog'), // returns a Promise
     loading: require('./Loading.vue'),
     error: require('./Error.vue'),
     delay: 200,
