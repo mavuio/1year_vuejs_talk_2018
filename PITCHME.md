@@ -10,6 +10,9 @@
 
 +++?code=showcase/Fotos.vue&lang=html&title=vuelidate
 
+```html
+
+```
 <div class="small">@fa[plus-circle] validation code is within the model</div>
 
 
