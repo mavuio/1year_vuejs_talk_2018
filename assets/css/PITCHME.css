@@ -1,8 +1,8 @@
 .color1 {
-    color:cyan;
+  color:cyan;
 }
 .color2 {
-    color:gold;
+  color:gold;
 }
 .reveal h1,
 .reveal h2,
@@ -10,19 +10,19 @@
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-    text-transform: none;
+  text-transform: none;
 }
 
 .right  {
-    text-align: right;
+  text-align: right;
 }
 
 .left  {
-    text-align: right;
+  text-align: right;
 }
 
 .small {
-    font-size:0.8em !important;
+  font-size:0.8em !important;
 }
 
 .reveal pre {
@@ -31,4 +31,6 @@
   width:100%;
 }
 
-.reveal .slides { width: 1280px; } or .reveal .slides section>* { width: 1280px; }
+.reveal .slides { 
+  width: 1280px !important; 
+} 
