@@ -138,10 +138,9 @@ Vue.use(vuelidateErrorExtractor, {
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate [store/index.js]
 
 @[6] (Step 1: import)
-@[19](Step 2: select parts of state to preserve)
+@[19](Step 2: select parts of state to preserve, just works)
 @[12](optional: define cache-key)
 @[20](btw: "strict" is always a good idea)
-
 
 
 ---

@@ -1,11 +1,3 @@
-/*
-
-<div>
-  aaa
-  <div>&nbsp;</div>
-</div>
-
-*/
 
 const R = require('ramda');
   import {augmentApiUrl} from '../utils';
