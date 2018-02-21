@@ -284,6 +284,7 @@ module.exports = conf;
 
 +++
 
+when running webpack, 
 webpack-bundle-analyzer will start a local webserver  providing you this:
 
 ![Logo](showcase/imgs/bundle_analyzer.png)
