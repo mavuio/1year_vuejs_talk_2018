@@ -240,9 +240,6 @@ https://buefy.github.io/\
 
 ##### [@fa[external-link] www.share-me.at](http://www.share-me.at)
 
-+++
-### challenges:
-
 - optimizing bundle sizes |
 - optimizing for search-engines |
 - utilizing screen-space with a dimensioning-engine|
