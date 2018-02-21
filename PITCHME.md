@@ -233,7 +233,7 @@ output:{
 +++ 
 ##### lazy calling:
 
-utilizing  dynamic import syntax of webpack2:
+<div class="small">utilizing  dynamic import syntax of webpack2:</div>
 
 ```javascript
 openPopup:function (slug) {
