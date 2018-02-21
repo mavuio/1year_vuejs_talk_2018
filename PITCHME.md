@@ -278,7 +278,7 @@ module.exports = conf;
 @[4]
 +++
 
-##### webpack-bundle-analyzer
+##### <span class="color1">webpack-bundle-analyzer</span>
 #### @fa[rocket] demo-time
 
 
