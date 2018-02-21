@@ -14,7 +14,7 @@ manfred@werkzeugh.at
 
 ---
 vuex:
-localstate / vuex-persistedstate4
+localstate / vuex-persistedstate autocommits
 
 
 
