@@ -263,7 +263,8 @@ openPopup:function (slug) {
 
 webpack-plugin: <span class="color1">webpack-bundle-analyzer</span>
 
-/showcase/imgs/bundle_analyzer.png
+![Logo](showcase/imgs/bundle_analyzer.png)
+
 
 
 ---
