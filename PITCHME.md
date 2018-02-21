@@ -235,6 +235,7 @@ output:{
 
 <div class="small">utilizing  dynamic import syntax of webpack2:</div>
 
+
 ```javascript
 openPopup:function (slug) {
 
