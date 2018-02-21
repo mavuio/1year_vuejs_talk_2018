@@ -123,6 +123,7 @@ Vue.use(vuelidateErrorExtractor, {
 });
 ```
 
+
 ---
 ### vuex: 
 
@@ -153,7 +154,7 @@ Vue.use(vuelidateErrorExtractor, {
 #challenges:
 
 - optimizing for  search-engines
-- utilizing space
+- utilizing screen-space
 
 
 
