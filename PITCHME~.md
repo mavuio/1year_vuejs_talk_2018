@@ -9,8 +9,7 @@ manfred@werkzeugh.at
 </div>
 
 ---
-#### vuex:
-
+vuex:
 localstate / vuex-persistedstate 
 
 
@@ -33,13 +32,9 @@ localstate / vuex-persistedstate
 
 
 ---
-### form validation: 
-
-vee-validate 
+form validation: 
+vee-validate vs vuelidate 
 ---
-
-
-
 icons: 
 vue-svgicons  vs fontawesome5i
 ---
