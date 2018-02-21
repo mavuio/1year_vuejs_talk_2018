@@ -23,6 +23,8 @@ localstate / vuex-persistedstate freakshow
 @[6] (Step 1: import)
 @[19](Step 2: select parts of state to preserve)
 @[12](optional: define cache-key)
+@[20](btw: "strict" is always a good idea)
+
 
 
 
