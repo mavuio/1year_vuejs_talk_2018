@@ -17,6 +17,9 @@ vuex:
 localstate / vuex-persistedstate freakshow
 
 
++++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=localstate [store/index.js]
+
+
 
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate [store/index.js]
 
