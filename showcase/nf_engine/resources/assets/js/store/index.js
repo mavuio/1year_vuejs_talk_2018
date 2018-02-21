@@ -17,7 +17,8 @@ const store = new Vuex.Store({
   actions,
   mutations,
   plugins: [createPersistedState({key,paths:['currentAnmeldung','persons','version','step','currentPersonKey']})],
-  strict: true});
+  strict: process.env.NODE_ENV !== 'production',
+ });
 
 if (module.hot) {
   module.hot.accept([
