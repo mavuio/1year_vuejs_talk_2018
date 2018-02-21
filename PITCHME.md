@@ -13,6 +13,7 @@ vuex:
 localstate / vuex-persistedstate 
 
 
+
 +++?code=showcase/nf_engine/resources/assets/js/components/PersonForm.vue&title=Using local-state for forms[PersonForm.vue]
 
 @[107-109] (create slot in local components-state)
