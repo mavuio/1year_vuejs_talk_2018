@@ -8,10 +8,14 @@ gulp.task('default', function() {
 
 
     exec('git add .; git commit -am "autocommit"; git push', function (err, stdout, stderr) {
-    console.log(stdout);
-    console.log(stderr);
-    livereload.reload();
-  });
+      console.log(stdout);
+      console.log(stderr);
+      setTimeout(function() {
+        livereload.reload();
+        console.log('live-reload',null);
+      }, 1000);
+      
+    });
 
   });
 });
