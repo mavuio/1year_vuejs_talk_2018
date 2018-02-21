@@ -149,7 +149,16 @@ Vue.use(vuelidateErrorExtractor, {
 use svg-icons as components directly within the vue-bundle
 
 +++
-##### <span class="color1">vue-svgicons</span> 
+##### <span class="color1">vue-svgicons</span>:
+
+pre-compile SVG-icons:
+```json
+package.json:
+...
+    "generate-icons": "vsvg -s ./resources/assets/svg-icons -t ./resources/assets/js/compiled-icons"
+...
+```
+
 +++ 
 ##### <span class="color1">fontawesome5</span> 
 ---
