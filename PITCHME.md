@@ -84,6 +84,9 @@
 </div>
 
 ```
++++ 
+vuelidate - validation state
+![Logo](showcase/imgs/vuelidate-state.png)
 
 +++ 
 
