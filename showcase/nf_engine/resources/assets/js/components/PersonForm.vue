@@ -1,8 +1,12 @@
+/*
+
 <div>
   aaa
   <div>&nbsp;</div>
 </div>
-<script>
+
+*/
+
 const R = require('ramda');
   import {augmentApiUrl} from '../utils';
   
@@ -422,4 +426,4 @@ const R = require('ramda');
       this.localPerson=this.fetchPerson();
       this.fetchInteressenIfNeeded();
     },
-  };</script>
+  };
