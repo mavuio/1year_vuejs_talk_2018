@@ -7,7 +7,7 @@
 <div class="small">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
 +++
-Form-Validation #2: vuelidate
+### Form-Validation #2: vuelidate
 
 ```html
 <div class="row">
