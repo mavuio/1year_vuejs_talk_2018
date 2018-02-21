@@ -223,7 +223,7 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 
 +++ 
-##### example code: lazy popup call using <span class="color1">vuedals</span>
+##### lazy calling:
 
 ```javascript
 openPopup:function (slug) {
