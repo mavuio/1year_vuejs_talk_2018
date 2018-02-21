@@ -124,6 +124,8 @@ Vue.use(vuelidateErrorExtractor, {
 
 
 ---
+### vuex: 
+
 
 +++?code=showcase/nf_engine/resources/assets/js/components/PersonForm.vue&lang=javascript&title=Using local-state for forms
 
