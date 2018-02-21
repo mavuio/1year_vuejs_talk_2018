@@ -9,6 +9,28 @@
 +++?code=showcase//showcase/PersonFormVuelidate.vue&lang=javascript&title=Form-Validation #2:vuelidate 
 <div class="small">@fa[plus-circle] validation code is within the model</div>
 
+```html
+// Include http module.
+var http = require("http");
+
+// Create the server. Function passed as parameter
+// is called on every request made.
+http.createServer(function (request, response) {
+  // Attach listener on end event.  This event is
+  // called when client sent, awaiting response.
+  request.on("end", function () {
+    // Write headers to the response.
+    // HTTP 200 status, Content-Type text/plain.
+    response.writeHead(200, {
+      'Content-Type': 'text/plain'
+    });
+    // Send data and end response.
+    response.end('Hello HTTP!');
+  });
+
+// Listen on the 8080 port.
+}).listen(8080);
+```
 
 ---
 
