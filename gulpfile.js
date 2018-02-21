@@ -10,10 +10,8 @@ gulp.task('default', function() {
     exec('git add .; git commit -am "autocommit"; git push', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
-    cb(err);
+    livereload.reload();
   });
 
-    livereload.reload();
-    console.log('changed !')
   });
 });
