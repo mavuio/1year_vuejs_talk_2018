@@ -135,7 +135,7 @@ Vue.use(vuelidateErrorExtractor, {
 @[249] (be sure to use a cloned version, btw: ramda is a friend)
 
 
-+++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate: persist parts of state in local-storage
++++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=<span class="color1">vuex-persistedstate</span> - persist parts of state in local-storage
 
 @[6] (Step 1: import)
 @[19](Step 2: select parts of state to preserve, just works)
