@@ -2,11 +2,11 @@
 ---
 ### form validation: 
 
-+++?code=showcase/Fotos.vue&lang=html&title=vee-validate 
++++?code=showcase/Fotos.vue&lang=html&title=Form-Validation #1: vee-validate 
 
 <div class="small">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
-+++?code=showcase/vuelidate-template.html&lang=html&title=vuelidate - markup
++++?code=showcase/vuelidate-template.html&lang=html&title=Form-Validation #2:vuelidate - markup
 <div class="small">@fa[plus-circle] validation code is within the model</div>
 
 ---
