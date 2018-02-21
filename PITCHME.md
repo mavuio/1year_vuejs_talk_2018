@@ -158,7 +158,6 @@ Vue.use(vuelidateErrorExtractor, {
 - optimizing bundle sizes |
 
 
-
 ---
 ### optimizing bundle sizes:
 +++
