@@ -238,7 +238,8 @@ https://buefy.github.io/\
 
 ###  a frontend-heavy vue-site:
 
-##### www.share-me.at
+##### @fa[external-link][fontawesome5](https://fontawesome.com/icons?d=gallery)
+[www.share-me.at](www.share-me.at)
 
 +++
 ### challenges:
