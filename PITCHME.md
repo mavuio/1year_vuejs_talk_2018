@@ -289,16 +289,17 @@ module.exports = conf;
 ![Logo](showcase/imgs/bundle_analyzer.png)
 
 ---
-### component-libraries:
+### my journey on component-libraries:
 
 +++
 #### "bootstrap" - based Components:
 
 - github.com/yuche/*vue-strap* 
-- github.com/wxsms/*uiv* |
+- github.com/wxsms/*uiv*  |
 
 +++
 ##### Bulma - base Components:
+
 
 
 content: 
