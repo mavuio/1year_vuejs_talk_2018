@@ -4,7 +4,7 @@ var exec = require('child_process').exec;
 
 gulp.task('default', function() {
   livereload.listen();
-  gulp.watch('PITCHME.md', function() {
+  gulp.watch(['PITCHME.md','**/*.js'], function() {
 
 
     exec('git add .; git commit -am "autocommit"; git push', function (err, stdout, stderr) {

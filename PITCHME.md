@@ -5,6 +5,7 @@
 vee-validate 
 +++?code=showcase/Fotos.vue&lang=html&title=vee-validate [Fotos.vue]
 
+validations are inter-mingled with presentational code.
 
 
 ---
@@ -20,10 +21,6 @@ manfred@werkzeugh.at
 </div>
 
 ---
-#### vuex:
-
-localstate / vuex-persistedstate 
-
 
 +++?code=showcase/nf_engine/resources/assets/js/components/PersonForm.vue&lang=javascript&title=Using local-state for forms [PersonForm.vue]
 
