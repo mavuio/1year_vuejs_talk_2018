@@ -237,7 +237,7 @@ openPopup:function (slug) {
   });
 
   this.$vuedals.open({
-    title: 'Über uns',
+    title: 'Project Posts',
     component: AsyncComp,
     escapable:true,
   });
