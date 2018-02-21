@@ -63,6 +63,10 @@
 <div class="smallest">@fa[plus-circle] validation code is within the model</div>
 
 +++ 
+##### vuelidate - validation state
+
+![Logo](showcase/imgs/vuelidate-state2.png)
++++ 
 
 ##### Form-Validation #2: vuelidate - markup
 
@@ -84,10 +88,6 @@
 </div>
 
 ```
-+++ 
-##### vuelidate - validation state
-
-![Logo](showcase/imgs/vuelidate-state2.png)
 
 +++ 
 
