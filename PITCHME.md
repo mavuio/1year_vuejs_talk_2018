@@ -300,10 +300,6 @@ module.exports = conf;
 +++
 ##### Bulma - base Components:
 
-https://buefy.github.io/#/
+https://buefy.github.io/
 
-
-
-content: 
-server-side (laravel)  vs  headless-cms (storyblok)
 
