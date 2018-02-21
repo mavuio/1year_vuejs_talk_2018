@@ -64,7 +64,8 @@
 
 +++ 
 
-Form-Validation #2: vuelidate - markup
+##### Form-Validation #2: vuelidate - markup
+
 ```html
 <div class="row">
   <form-group class="span-6 alpha" label="Geburtsdatum" 
