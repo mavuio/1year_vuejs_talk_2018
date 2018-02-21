@@ -170,6 +170,7 @@ import '../compiled-icons/blog';
 
 @[2] ( use ) 
 
++++  <span class="color1">vue-svgicons</span>: usage
 ```javascript
 <div class="pics" v-if="picsMode">
     <a :href="getUrlForPost(p)" v-for="(p,idx) in pics" :key="idx" :class="{isVideo:p.video}">
