@@ -300,6 +300,8 @@ module.exports = conf;
 +++
 ##### Bulma - base Components:
 
+https://buefy.github.io/#/
+
 
 
 content: 
