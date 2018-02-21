@@ -17,7 +17,7 @@ vuex:
 localstate / vuex-persistedstate 
 
 
-+++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=localstate [store/index.js]
++++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=localstate [PersonForm.vue]
 
 @[307-309] (create slot in local components-state)
 @[635] (load data from vuex-store on component-creation)
