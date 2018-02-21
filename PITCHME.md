@@ -168,7 +168,7 @@ import '../compiled-icons/sociallinks';
 import '../compiled-icons/blog';
 ```
 
-```html
+```javascript
 <div class="pics" v-if="picsMode">
     <a :href="getUrlForPost(p)" v-for="(p,idx) in pics" :key="idx" :class="{isVideo:p.video}">
        <div class="icon-overlay" v-if="p.video">
