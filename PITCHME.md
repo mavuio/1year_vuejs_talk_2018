@@ -14,7 +14,7 @@ manfred@werkzeugh.at
 
 ---
 vuex:
-localstate / vuex-persistedstate freakshow
+localstate / vuex-persistedstate 
 
 
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=localstate [store/index.js]
