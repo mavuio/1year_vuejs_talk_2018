@@ -221,7 +221,8 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 ##### vue lazy-loading w/o router
 
-webpack bundle size-previews 
++++
+##### webpack bundle size-previews 
 ---
 components: 
 <span class="color1">vue-strap</span>  vs  <span class="color1">buefy-components</span>
