@@ -13,8 +13,9 @@ gulp.task('default', function() {
       setTimeout(function() {
         livereload.reload();
         console.log('live-reload',null);
+        exec('afplay /System/Library/Sounds/Pop.aiff -v 0.3');
       }, 1000);
-      
+
     });
 
   });

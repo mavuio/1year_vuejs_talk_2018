@@ -14,7 +14,7 @@ manfred@werkzeugh.at
 
 ---
 vuex:
-localstate / vuex-persistedstate vietnam
+localstate / vuex-persistedstate freakshow
 
 
 
