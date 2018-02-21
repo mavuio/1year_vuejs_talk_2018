@@ -154,7 +154,7 @@ Vue.use(vuelidateErrorExtractor, {
 ### challenges:
 
 - optimizing for search-engines 
-- utilizing screen-space |
+- utilizing screen-space with a dimensioning-engine|
 - optimizing bundle sizes |
 
 
