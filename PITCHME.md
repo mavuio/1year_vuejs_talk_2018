@@ -11,6 +11,20 @@
 +++?code=showcase/Fotos.vue&lang=html&title=vuelidate
 
 ```html
+<div class="row">
+  <form-group class="span-6 alpha" label="Geburtsdatum" :validator="$v.localPerson.gebdatum">
+    <input type="text" class="form-control" v-model.trim="localPerson.gebdatum" 
+    name="gebdatum" placeholder="TT.MM.JJJJ" @input="$v.localPerson.gebdatum.$touch()">
+  </form-group>
+</div>
+...
+ <div class="row" v-if='usePlzChooser'>
+    <form-group :validator="$v.localPerson.plz" label="PLZ/Ort">
+      <v-select :debounce="250" v-model='plzort' :on-search="getPlzorte" :options='plzorte' placeholder="Suche PLZ/Ort" @change="$v.localPerson.plz.$touch()" />
+
+        <div>&nbsp;</div>
+    </form-group>
+ </div>
 
 ```
 <div class="small">@fa[plus-circle] validation code is within the model</div>
