@@ -1,24 +1,4 @@
-/*
-<template>
-...
-
-        <div class="row">
-          <form-group class="span-6 alpha" label="Geburtsdatum" :validator="$v.localPerson.gebdatum">
-            <input type="text" class="form-control" v-model.trim="localPerson.gebdatum" name="gebdatum" placeholder="TT.MM.JJJJ" @input="$v.localPerson.gebdatum.$touch()">
-           </form-group>
-          <div class="span-6 omega" >
-            
-            <div v-if='isStudent' class="alert alert-success">Hinweis: Eine Inskriptionsbestätigung ist erforderlich.</div>
-
-          </div>
-
-        </div>
-...
-</template>
-
-*/
-
-const R = require('ramda');
+  const R = require('ramda');
   import {augmentApiUrl} from '../utils';
   
   import Vue from 'vue';
