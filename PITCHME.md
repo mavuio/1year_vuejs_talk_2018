@@ -258,7 +258,14 @@ openPopup:function (slug) {
 @[9-15] ( open in popup, here using the <span class="color1">vuedals-library</span>)
 
 +++
-##### webpack bundle size-previews 
+##### webpack bundle size-previews :
+
+
+webpack-plugin: <span class="color1">webpack-bundle-analyzer</span>
+
+/showcase/imgs/bundle_analyzer.png
+
+
 ---
 components: 
 <span class="color1">vue-strap</span>  vs  <span class="color1">buefy-components</span>
