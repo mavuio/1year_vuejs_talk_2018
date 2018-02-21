@@ -8,7 +8,6 @@
 
 +++
 
-+++?code=showcase/Fotos.vue&lang=html&title=vuelidate
 
 ```html
 <div class="row">
