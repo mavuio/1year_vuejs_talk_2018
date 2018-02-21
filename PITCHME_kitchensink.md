@@ -46,9 +46,7 @@ The *same syntax* you use to create project
 
 +++?code=src/go/server.go&lang=golang&title=Source: Golang File
 
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+@[1,19](Present code found within any repo source file.)
 
 ---
 @title[Present Static Block]

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4e5a1449-9df4-4d61-828a-c44a6851494f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/PITCHME.md" beforeDir="false" afterPath="$PROJECT_DIR$/PITCHME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PITCHME_kitchensink.md" beforeDir="false" afterPath="$PROJECT_DIR$/PITCHME_kitchensink.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/import.sh" beforeDir="false" afterPath="$PROJECT_DIR$/import.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,30 +29,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/werkzeugh/1year_vuejs_talk_2018/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="299" column="5" selection-start-line="274" selection-start-column="4" selection-end-line="301" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PITCHME.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/PITCHME.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PITCHME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="397">
-                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="517">
+                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               </first_editor>
               <second_editor>
                 <js_state />
@@ -59,12 +43,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PITCHME_kitchensink.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="import.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/import.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/werkzeugh/1year_vuejs_talk_2018/assets/md/PITCHME.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="100">
+                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PITCHME_kitchensink.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PITCHME_kitchensink.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="280">
-                <caret line="46" column="44" selection-start-line="46" selection-end-line="47" />
+              <first_editor relative-caret-position="352">
+                <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               </first_editor>
               <second_editor>
                 <js_state />
@@ -76,11 +83,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/showcase/nf_engine/resources/assets/js/store/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -111,15 +115,15 @@
         <option value="$PROJECT_DIR$/PICTHME.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/PITCHME/assets/md/PITCHME.md" />
-        <option value="$PROJECT_DIR$/PITCHME_kitchensink.md" />
         <option value="$PROJECT_DIR$/maintainance.txt" />
         <option value="$PROJECT_DIR$/PITCHME.yaml" />
-        <option value="$PROJECT_DIR$/import.sh" />
         <option value="$PROJECT_DIR$/werkzeugh/1year_vuejs_talk_2018/index.html" />
         <option value="$PROJECT_DIR$/assets/css/PITCHME.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/showcase/nf_engine/resources/assets/js/store/index.js" />
+        <option value="$PROJECT_DIR$/import.sh" />
         <option value="$PROJECT_DIR$/PITCHME.md" />
+        <option value="$PROJECT_DIR$/PITCHME_kitchensink.md" />
       </list>
     </option>
   </component>
@@ -198,6 +202,32 @@
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="store" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="1year_vuejs_talk_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1year_vuejs_talk_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="werkzeugh" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="1year_vuejs_talk_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1year_vuejs_talk_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="werkzeugh" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1year_vuejs_talk_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="1year_vuejs_talk_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1year_vuejs_talk_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="werkzeugh" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1year_vuejs_talk_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="1year_vuejs_talk_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1year_vuejs_talk_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="werkzeugh" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1year_vuejs_talk_2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="md" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,7 +268,7 @@
       <option name="presentableId" value="Default" />
       <updated>1519196572767</updated>
       <workItem from="1519196574403" duration="6924000" />
-      <workItem from="1519206414070" duration="2812000" />
+      <workItem from="1519206414070" duration="3543000" />
     </task>
     <task id="LOCAL-00001" summary="2018_02_21_082002">
       <created>1519197606056</created>
@@ -251,7 +281,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9736000" />
+    <option name="totallyTimeSpent" value="10467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
@@ -357,18 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/werkzeugh/1year_vuejs_talk_2018/assets/md/PITCHME.md" />
     <entry file="file://$PROJECT_DIR$/PITCHME.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/import.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -410,11 +432,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PITCHME_kitchensink.md">
+    <entry file="file://$PROJECT_DIR$/import.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/werkzeugh/1year_vuejs_talk_2018/assets/md/PITCHME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PITCHME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="280">
-            <caret line="46" column="44" selection-start-line="46" selection-end-line="47" />
+          <first_editor relative-caret-position="517">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor>
             <js_state />
@@ -424,19 +465,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/showcase/nf_engine/resources/assets/js/store/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PITCHME.md">
+    <entry file="file://$PROJECT_DIR$/PITCHME_kitchensink.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="397">
-            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <first_editor relative-caret-position="352">
+            <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           </first_editor>
           <second_editor>
             <js_state />
