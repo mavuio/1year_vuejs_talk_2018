@@ -173,7 +173,7 @@ import '../compiled-icons/blog';
 +++ 
 ##### <span class="color1">vue-svgicons</span>: usage 2
 
-```javascript
+```html
 <div class="pics" v-if="picsMode">
     <a :href="getUrlForPost(p)" v-for="(p,idx) in pics" :key="idx" :class="{isVideo:p.video}">
        <div class="icon-overlay" v-if="p.video">
