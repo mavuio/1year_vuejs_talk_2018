@@ -160,7 +160,7 @@ package.json:
 ```
 
 +++ 
-##### <span class="color1">vue-svgicons</span>: usage
+##### <span class="color1">vue-svgicons</span>: import
 
 ```javascript
 import '../compiled-icons/topnav/close';
@@ -169,7 +169,7 @@ import '../compiled-icons/blog';
 ```
 
 +++ 
-##### <span class="color1">vue-svgicons</span>: usage 2
+##### <span class="color1">vue-svgicons</span>: markup
 
 ```html
 <div class="pics" v-if="picsMode">
