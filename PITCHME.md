@@ -185,7 +185,7 @@ import '../compiled-icons/blog';
 @[4] 
 
 +++ 
-##### <span class="color1">fontawesome5</span>
+##### <span class="color1">fontawesome5</span> - definition
 
 '''javascript
 
@@ -198,9 +198,23 @@ fontawesome.library.add(faShoppingCart, faChevronLeft);
 import FontAwesomeIcon from '@fortawesome/vue-fontawesome';
 
 Vue.component('font-awesome-icon', FontAwesomeIcon);
+
 '''
 
 @[4-6] (select icons to use within the project)
+
++++
+##### <span class="color1">fontawesome5</span> - markup
+
+```html
+ <router-link class="button" :to="{name:'overview'}">
+            <span class="icon is-small"><font-awesome-icon :icon="['fal', 'chevron-left']" /></span>
+            <span>zurück</span>
+        </router-link>
+```
+
+[2]
+
 
 
 ---
