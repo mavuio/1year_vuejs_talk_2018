@@ -240,7 +240,7 @@ https://buefy.github.io/\
 
 ##### www.share-me.at
 
----
++++
 ### challenges:
 
 - optimizing for search-engines 
@@ -248,7 +248,7 @@ https://buefy.github.io/\
 - optimizing bundle sizes |
 
 
----
++++
 ### optimizing bundle sizes:
 +++
 ##### vue lazy-loading w/o router
