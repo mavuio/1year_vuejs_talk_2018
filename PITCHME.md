@@ -8,12 +8,6 @@ Manfred Wuits<br>
 </div>
 
 ---
-
-
-
-
-
----
 ### Form-Validation: 
 
 
