@@ -40,6 +40,8 @@ vee-validate
 
 
 
+
+
 icons: 
 vue-svgicons  vs fontawesome5i
 ---
