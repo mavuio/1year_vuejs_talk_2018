@@ -288,11 +288,13 @@ module.exports = conf;
   webpack-bundle-analyzer will start a local webserver  providing you this:</div>
 ![Logo](showcase/imgs/bundle_analyzer.png)
 
-
-
 ---
-components: 
-<span class="color1">vue-strap</span>  vs  <span class="color1">buefy-components</span>
+### component-libraries:
+
+#### Bootstrap:
+
+- <span class="color1">vue-strap</span>  |
+- <span class="color1">uiv</span>  
 ---
 content: 
 server-side (laravel)  vs  headless-cms (storyblok)
