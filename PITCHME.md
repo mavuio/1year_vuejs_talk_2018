@@ -85,6 +85,28 @@
 
 ```
 
++++ 
+
+##### Form-Validation #2: vuelidate - validations
+
+import vuelidateErrorExtractor from 'vuelidate-error-extractor';
+
+import customFormGroup from './FormGroup.vue';
+
+```javascript
+Vue.use(vuelidate);
+Vue.use(vuelidateErrorExtractor, {
+  template: customFormGroup,
+  messages: {
+    required: 'Dieses Feld ist ein Pflichtfeld',
+    email: 'Bitte eine gültige e-Mail Adresse eintragen',
+    isDate: 'Bitte ein gültiges Datum im Format TT.MM.JJJJ angeben',
+    isValidAge: 'Geburtsdatum ist nicht im erforderlichen Altersbereich',
+    plz: 'Bitte eine gültige PLZ eingeben',
+    mitgliedsnr: 'Bitte eine gültige Mitgliedsnummer eingeben',
+     },
+});
+```
 
 ---
 
