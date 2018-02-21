@@ -87,7 +87,7 @@
 
 +++ 
 
-##### Form-Validation #2: vuelidate - validations
+##### vuelidate-error-extractor - markup Helper
 
 import vuelidateErrorExtractor from 'vuelidate-error-extractor';
 
