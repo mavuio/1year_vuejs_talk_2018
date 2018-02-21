@@ -22,9 +22,7 @@ localstate / vuex-persistedstate4
 
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=Source: Vuex Store Setup
 
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+@[6,19](Present code found within any repo source file.)
 
 
 
