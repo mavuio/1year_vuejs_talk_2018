@@ -4,7 +4,7 @@
 
 +++?code=showcase/Fotos.vue&lang=html&title=Form-Validation #1: vee-validate 
 
-<div class="small">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
+<div class="smaller">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
 +++
 ### Form-Validation #2: vuelidate
