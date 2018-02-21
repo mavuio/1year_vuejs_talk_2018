@@ -4,8 +4,8 @@
 <div class=""></div>
 
 <div class="left small">
-Manfred <span class="color1">Wuits</span><br>
-manfred@werkzeugh.at
+Manfred Wuits<br>
+<span class="color1">manfred@werkzeugh.at</span>
 </div>
 
 ---
