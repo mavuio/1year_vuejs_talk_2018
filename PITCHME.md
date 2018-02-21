@@ -9,15 +9,6 @@
 +++?code=showcase//showcase/PersonFormVuelidate.vue&lang=javascript&title=Form-Validation #2:vuelidate 
 <div class="small">@fa[plus-circle] validation code is within the model</div>
 
-```html
-<div class="row">
-  <form-group class="span-6 alpha" label="Geburtsdatum" :validator="$v.localPerson.gebdatum">
-    <input type="text" class="form-control" v-model.trim="localPerson.gebdatum" 
-    name="gebdatum" placeholder="TT.MM.JJJJ" @input="$v.localPerson.gebdatum.$touch()">
-  </form-group>
-</div>
-
-```
 
 ---
 
