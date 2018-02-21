@@ -244,8 +244,8 @@ https://buefy.github.io/\
 ### challenges:
 
 - optimizing for search-engines 
-- utilizing screen-space with a dimensioning-engine|
 - optimizing bundle sizes |
+- utilizing screen-space with a dimensioning-engine|
 
 
 +++
