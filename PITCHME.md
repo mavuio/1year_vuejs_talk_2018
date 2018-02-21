@@ -123,7 +123,6 @@ Vue.use(vuelidateErrorExtractor, {
 });
 ```
 
-
 ---
 ### vuex: 
 
