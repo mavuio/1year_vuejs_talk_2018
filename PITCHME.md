@@ -187,7 +187,7 @@ import '../compiled-icons/blog';
 +++ 
 ##### <span class="color1">fontawesome5</span> - definition
 
-'''javascript
+```javascript
 
 import fontawesome from '@fortawesome/fontawesome';
 
@@ -199,7 +199,7 @@ import FontAwesomeIcon from '@fortawesome/vue-fontawesome';
 
 Vue.component('font-awesome-icon', FontAwesomeIcon);
 
-'''
+```
 
 @[4-6] (select icons to use within the project)
 
