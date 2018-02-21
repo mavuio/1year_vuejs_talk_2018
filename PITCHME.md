@@ -10,6 +10,7 @@
 
 <div class="small">@fa[minus-circle] validations are inter-mingled with presentational code.</div>
 
++++?code=showcase/vuelidate-template.html&lang=html&title=vuelidate - markup
 
 ---
 
