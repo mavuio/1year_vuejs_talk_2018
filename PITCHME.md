@@ -14,7 +14,7 @@ manfred@werkzeugh.at
 
 ---
 vuex:
-localstate / vuex-persistedstate v55
+localstate / vuex-persistedstate v66
 
 
 
