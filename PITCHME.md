@@ -182,7 +182,7 @@ import '../compiled-icons/blog';
 </div>
 ```
 
-@[4]
+@[4] 
 
 +++ 
 ##### <span class="color1">fontawesome5</span> 
