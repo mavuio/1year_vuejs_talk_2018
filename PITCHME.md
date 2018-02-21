@@ -1,6 +1,10 @@
----
+### 1 year vue.js 
+### - lessons learned
+<div>&nbsp;</div>
+##### Manfred Wuits
+##### manfred@werkzeugh.at
 
-Hello, World!
+
 
 ---
 
