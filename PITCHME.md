@@ -168,6 +168,8 @@ import '../compiled-icons/sociallinks';
 import '../compiled-icons/blog';
 ```
 
+@[2] ( use ) 
+
 ```javascript
 <div class="pics" v-if="picsMode">
     <a :href="getUrlForPost(p)" v-for="(p,idx) in pics" :key="idx" :class="{isVideo:p.video}">
