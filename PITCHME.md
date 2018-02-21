@@ -263,6 +263,20 @@ openPopup:function (slug) {
 
 webpack-plugin: <span class="color1">webpack-bundle-analyzer</span>
 
+
+```javascript
+let WebpackConfig = require('../src/builder/WebpackConfig');
+
+const conf = new WebpackConfig().build();
+var BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
+conf.plugins.push(new BundleAnalyzerPlugin());
+console.log('#final webpack-conf:', conf);
+// console.log('#final webpack-conf plugins:', conf.plugins);
+// console.log('#final webpack-conf module.rules:', conf.module.rules);
+module.exports = conf;
+```
+@[4]
+
 +++
 
 webpack-bundle-analyzer will start a local webserver  providing you this:
