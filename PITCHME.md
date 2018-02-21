@@ -18,7 +18,7 @@ localstate / vuex-persistedstate4
 
 
 
-+++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate<br>store/index.js
++++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate [store/index.js]
 
 @[6] (Step 1: import)
 @[19](Step 2: select parts of state to preserve)
