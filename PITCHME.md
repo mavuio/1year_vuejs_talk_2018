@@ -15,12 +15,10 @@ manfred@werkzeugh.at
 ---
 vuex:
 localstate / vuex-persistedstate4
-+++
-### vuex-persistedstate
 
-<p><span class="menu-title slide-title">Source: JavaScript Block</span></p>
 
-+++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=Source: Vuex Store Setup
+
++++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate<br>store/index.js
 
 @[6] (Step 1: import)
 @[19](Step 2: select parts of state to preserve)
