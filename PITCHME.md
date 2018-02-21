@@ -263,6 +263,11 @@ openPopup:function (slug) {
 
 webpack-plugin: <span class="color1">webpack-bundle-analyzer</span>
 
++++
+
+webpack-bundle-analyzer will start a local webserver  providing you this:
+
+
 ![Logo](showcase/imgs/bundle_analyzer.png)
 
 
