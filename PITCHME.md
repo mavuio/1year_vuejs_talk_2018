@@ -19,6 +19,10 @@ localstate / vuex-persistedstate freakshow
 
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=localstate [store/index.js]
 
+@[307-309] (create slot in local components-state)
+@[635] (load data from vuex-store on component-creation)
+@[429] (use getters for that)
+@[458] (be sure to use a cloned version, btw: ramda is a friend)
 
 
 +++?code=showcase/nf_engine/resources/assets/js/store/index.js&lang=javascript&title=vuex-persistedstate [store/index.js]
@@ -27,8 +31,6 @@ localstate / vuex-persistedstate freakshow
 @[19](Step 2: select parts of state to preserve)
 @[12](optional: define cache-key)
 @[20](btw: "strict" is always a good idea)
-
-
 
 
 
